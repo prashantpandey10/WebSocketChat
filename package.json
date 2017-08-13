@@ -1,0 +1,23 @@
+{
+  "name": "testchat",
+  "version": "1.0.0",
+  "description": "simple chat application using websockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "websocket",
+    "chat",
+    "tutorial"
+  ],
+  "author": "prashant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
